@@ -1,0 +1,27 @@
+	Sequence,TRs,Duration (s),Avg T1 error (ms),Avg T2 error (ms)
+	standard480,480,5.57,25.1,3.51
+	standard672,672,7.75,24.6,2.04
+	standard864,864,9.93,24.3,1.85
+	standard1056,1056,12.21,24.1,1.76
+	standard1248,1248,14.50,23.6,1.64
+	standard1440,1440,16.69,23.2,1.51
+	standard1632,1632,18.99,23.1,1.43
+	standard2400,2400,28.05,22.3,1.20
+	standard2592,2592,30.30,22.2,1.17
+	standard2784,2784,32.52,21.9,1.16
+	standard3000,3000,34.95,21.7,1.13
+	optimized a,480,6.43,27.15,1.67           
+	optimized b,1000,16.76,20.1,1.48
+	optimized c,1000,15.92,23.7,2.01
+	optimized d,480,11.40,29.7,2.45
+	optimized e,480,10.37,37.4,2.26
+	optimized f,480,14.11,20.3,1.96
+	optimized g,480,10.99,21.1,1.90
+	optimized h,480,8.89,25.1,1.81
+	optimized i,480,7.76,13.2,0.88
+	optimized j,960,13.66,13.2,0.73
+	optimized k,480,5.83,28.1,1.81
+	optimized l,480,5.00,28.7,1.81
+	optimized m,480,5.02,18.9,1.84
+	optimized n,480,4.88,27.1,1.32
+	optimized o,480,5.85,22.1,1.72
