@@ -1,3 +1,9 @@
+# Licensed under terms specified in LICENSE.md: Microsoft Data License Agreement for Dataset
+# for article -- "Automated Design of Pulse Sequences for Magnetic Resonance Fingerprinting
+# using Physics-Inspired Optimization"
+# 
+# By using the Dataset, you accept these terms.
+#
 #git version hash-----------------------------------------------------------------------------------------------
 #b418f5f77de09ce681ca56fb4fca891de0dfbffd
 #seed = 1561442091

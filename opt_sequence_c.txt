@@ -1,3 +1,9 @@
+# Licensed under terms specified in LICENSE.md: Microsoft Data License Agreement for Dataset
+# for article -- "Automated Design of Pulse Sequences for Magnetic Resonance Fingerprinting
+# using Physics-Inspired Optimization"
+# 
+# By using the Dataset, you accept these terms.
+#
 #software version: be99287
 #seed = 1548273495
 #opt_algo SSMC
