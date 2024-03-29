@@ -1,3 +1,9 @@
+This repository contains optimized sequence files and results from the following publication: 
+
+Jordan S.P., Hu S.Y., Rozada I., McGivney D.F., Boyacioglu R., Jacob D.C., Huang S., Beverland M., Katzgraber H.G., Troyer M., Griswold M.A., Ma D.. 
+Automatic Design of Pulse Sequences for Magnetic Resonance Fingerprinting Using Physics-Inspired Optimizaiton. PNAS,2021, Vol. 118, No. 40. 
+(https://www.pnas.org/doi/full/10.1073/pnas.2020516118)
+
 # Automatic-MRF-seq-design
 
 table1.csv:	Unoptimized sequences, c2p480-c2p3000, of different durations, are compared to optimized sequences.
